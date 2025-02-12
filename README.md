@@ -1,7 +1,7 @@
 # Curriculum
 ## Sobre mi
 Hem dic Julen de la Cruz Lacal, estudio Informàtica, tinc passió per la programació i m'agradaria desarollar videojocs.
-
+---
 ## Llengues que parlo:🤭
 1.Català
 
@@ -9,7 +9,7 @@ Hem dic Julen de la Cruz Lacal, estudio Informàtica, tinc passió per la progra
 
 3.Anglès
 
-
+---
 **Atributs personals: 💋**
 
 -Molt inquiet
@@ -29,7 +29,7 @@ Hem dic Julen de la Cruz Lacal, estudio Informàtica, tinc passió per la progra
 ![images](https://github.com/user-attachments/assets/1f225c19-82a7-46dd-b7fe-ffc1e6e3e631)
 
 
-
+---
 | Dades      |Personals  |Fecha  |
 |------------|-----------|-------| 
 |Nom         |Julen      |12     |
@@ -40,7 +40,7 @@ Hem dic Julen de la Cruz Lacal, estudio Informàtica, tinc passió per la progra
 
 > Passió per la programació
 
-(mmmm)[#curriculum]
+[Principi de la pàgina](#curriculum) 😄😆
 
 ```geojson
 {
