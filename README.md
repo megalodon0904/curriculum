@@ -1,10 +1,9 @@
 # Curriculum
 ## Subtitol1
-## Subtitol2
-
-1.
-2.
-3.
+## Llengues que parlo:
+1.Català
+2.Castellà
+3.Anglès
 
 
 
@@ -14,7 +13,9 @@
 
 ()
 
-!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOe3KeevoSDCfnvuA7nXmw93U1vUpm-Ibsw&s)
+![images](https://github.com/user-attachments/assets/1f225c19-82a7-46dd-b7fe-ffc1e6e3e631)
+
+
 
 | Dades      |Personals  |Fecha  |
 |---------   |-----------|-------| 
