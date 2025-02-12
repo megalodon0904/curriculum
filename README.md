@@ -1,6 +1,6 @@
 # Curriculum
 ## Sobre mi
-Hem dic Julen de la Cruz Lacal, estudio Informàtica, tinc passió per la programació i m'agradaria desarollar videojocs.
+Hem dic Julen de la Cruz Lacal, estudio Informàtica, tinc passió per la programació i m'agradaria desarollar videojocs. Visc a Manresa, Sant Salvador de Guardiola.
 ---
 ## Llengues que parlo:🤭
 1.Català
